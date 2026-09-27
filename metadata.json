@@ -1,0 +1,6 @@
+{
+  "name": "VibeShift Media",
+  "description": "Automatizált ügyfélszerzés és MissedCall-TextBack rendszerek helyi vállalkozásoknak. Kevesebb mellébeszélés, több mérhető ügyfél.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
